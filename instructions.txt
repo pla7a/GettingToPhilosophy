@@ -1,0 +1,5 @@
+Instructions -
+The game is simple. You will be given a random wikipedia page and a list of all the links on said page. You can choose which link (wikipedia page) you wish to navigate to from the first page. You must keep doing this until you reach the "Philosophy" wikipedia page. The aim of the game is to do this in the least moves possible. Your score (and name) are stored locally on the system so you have something to try and beat.
+
+If at any point you want to exit the game, just type 'q' where there is input available and the game should exit immediately. If your curiosity gets the better of you and you decide that one of the pages you have landed on actually sounds interesting (and you would like to learn more) then just enter 's' as input and you will be presented with a summary of the page and the game will resume immediately after.
+
