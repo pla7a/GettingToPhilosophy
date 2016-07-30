@@ -23,3 +23,5 @@ A python text-based game using the wikipedia API.
 Clicking on the first lowercase link in the main text of a Wikipedia article, and then repeating the process for subsequent articles, usually eventually gets one to the Philosophy article. As of May 26, 2011, 94.52% of all articles in Wikipedia lead eventually to the article Philosophy. The remaining 100,000 (approx.) links to an article with no wikilinks or with links to pages that do not exist, or get stuck in loops (all three are equally probable). (source: https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy)
 
 The aim of this game is to utilise your general knowledge and reach the philosophy wikipedia page in as few moves as possible by navigating a series of URLs beginning at a random wikipedia page.
+
+Both wikipedia module (https://pypi.python.org/pypi/wikipedia/) and beautiful soup (https://www.crummy.com/software/BeautifulSoup/bs4/doc/) are used.
