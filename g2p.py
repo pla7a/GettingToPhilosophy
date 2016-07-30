@@ -118,7 +118,7 @@ def submit(score):
     else:
         file_a = open("hs.txt","a")
         file_r = open("hs.txt","r")
-        file_a.write("Name: {0:25} Score: {1:3}" .format(name,score))
+        file_a.write("Name: {0:25} Score: {1:3}\n" .format(name,score))
 
 
 
